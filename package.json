@@ -1,0 +1,24 @@
+{
+  "name": "grunt-test",
+  "version": "1.0.0",
+  "description": "grunt",
+     "private": true,
+      "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-jshint": "latest",
+    "jshint-stylish": "latest",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-less": "latest",
+    "grunt-contrib-cssmin": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-contrib-qunit": "latest",
+    "grunt-contrib-concat": "latest"
+
+  },
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David",
+  "license": "MIT"
+}

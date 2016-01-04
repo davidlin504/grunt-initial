@@ -1,0 +1,17 @@
+#images .inner{
+    position: relative;
+     width: 976px;
+    margin: 0 auto;
+    overflow: auto;
+    overflow: auto;
+}
+
+ .nav {
+position:absolute;
+
+width: 30%;
+z-index: 1;
+
+}
+
+
